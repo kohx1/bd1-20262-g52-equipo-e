@@ -12,6 +12,13 @@
 
 ---
 
+## 👨‍🏫 Información del Curso
+* **Profesor:** Jaime E. Soto U.
+* **Asignatura:** Ingeniería de Software
+* **Grupo:** E
+
+---
+
 ## 📌 Propósito del Repositorio
 Este espacio centraliza el código fuente, la documentación técnica y los entregables del equipo de trabajo. Está estructurado bajo estándares de la industria para reflejar una correcta planificación, diseño y desarrollo de soluciones de software escalables y eficientes.
 
