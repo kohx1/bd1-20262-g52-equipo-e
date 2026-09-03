@@ -39,5 +39,5 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
 ```text
 📦 2026-2-IngenieriaDeSoftware-GrupoE
  ┣ 📂 TAREA1         # TAREA 1
- ┣ 📂 TAREA2            # TAREA 2
+ ┣ 📂 TAREA2         # TAREA 2
  ┗ 📄 README.md      # Documentación principal del repositorio
