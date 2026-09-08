@@ -19,7 +19,16 @@
 
 <!-- Agregar foto del integrante -->
 
-### 👨‍💻 Integrante 2
+### 👨‍💻 MAIKER ALEXANDER ASPRILLA MARTINEZ
+
+**Rol:** Miembro del equipo
+
+<!-- Agregar foto del integrante -->
+
+---
+### 👨‍💻 JUAN MANUEL DURANGO GALVIS
+
+
 **Rol:** Miembro del equipo
 
 <!-- Agregar foto del integrante -->
