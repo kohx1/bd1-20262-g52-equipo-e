@@ -17,17 +17,18 @@
 ### 👨‍💻 Richard Lezcano Argaez
 **Rol:** Líder del equipo
 
-<!-- Agregar foto del integrante -->
+<p align="center">
+  <img src="imagenes/Richard.jpg" width="700">
+</p>
+
 
 ### 👨‍💻 MAIKER ALEXANDER ASPRILLA MARTINEZ
 
 **Rol:** Miembro del equipo
 
-## Diagramas
-
-![Imagen 1](imagenes/MAIKER.png)
-
-![Imagen 2](imagenes/RICHARD.png)
+<p align="center">
+  <img src="imagenes/MAIKER.jpg" width="700">
+</p>
 
 ---
 ### 👨‍💻 JUAN MANUEL DURANGO GALVIS
