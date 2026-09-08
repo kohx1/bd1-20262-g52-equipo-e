@@ -23,7 +23,11 @@
 
 **Rol:** Miembro del equipo
 
-<!-- Agregar foto del integrante -->
+## Diagramas
+
+![Imagen 1](imagenes/MAIKER.png)
+
+![Imagen 2](imagenes/RICHARD.png)
 
 ---
 ### 👨‍💻 JUAN MANUEL DURANGO GALVIS
