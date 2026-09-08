@@ -17,7 +17,7 @@
 ### 👨‍💻 Richard Lezcano Argaez
 **Rol:** Líder del equipo
 <p align="center">
-  <img src="../imagenes/Richard.jpg" alt="Richard Lezcano Argaez" width="700">
+  <img src="../imagenes/Richard.png" alt="Richard Lezcano Argaez" width="700">
 </p>
 
 
