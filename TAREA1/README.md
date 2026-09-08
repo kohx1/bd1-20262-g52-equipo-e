@@ -61,7 +61,10 @@ Durante el desarrollo se realiza:
 bd1-20262-g52-equipo-e
 │
 ├── README.md
-│
+│___imagenes
+    ├── Maiker.jpg
+    |__ Richard.png
+|     
 ├── TAREA1
 │   ├── 20262-bd1-ea1-equipo-E-informe.docx.pdf
 │   └── README.md
