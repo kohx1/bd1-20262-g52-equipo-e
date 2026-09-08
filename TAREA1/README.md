@@ -4,7 +4,7 @@
 
 **Institución:** Institución Universitaria Pascual Bravo  
 **Facultad:** Facultad de Ingeniería  
-**Programa:** Sistemas Digitales  
+**Programa:** INGENIERIA DE SOFTWARE
 **Asignatura:** Base de Datos I (SD1006)  
 **Proyecto:** Red Social Pascualina  
 **Grupo:** G52  
