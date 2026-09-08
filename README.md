@@ -37,7 +37,7 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
 ## 📂 Estructura del Proyecto
 
 ```text
-📦 2026-2-IngenieriaDeSoftware-GrupoE
+📦 bd1-20262-g52-equipo-e
  ┣ 📂 TAREA1         # TAREA 1
  ┣ 📂 TAREA2         # TAREA 2
  ┗ 📄 README.md      # Documentación principal del repositorio
