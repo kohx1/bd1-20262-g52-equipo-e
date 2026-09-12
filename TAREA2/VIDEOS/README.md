@@ -1,43 +1,19 @@
-<div align="center">
 
-# 🚀 INGENIERÍA DE SOFTWARE 🚀
-### **Institución Universitaria Pascual Bravo**
-**Grupo E** | **Periodo 2026-2**
+## 🎥 Video de presentación
 
----
+En el siguiente video se presenta el desarrollo de la **Tarea 2 de Base de Datos I**, correspondiente al proyecto **Red Social Pascualina**.
 
-> *Repositorio oficial para la gestión, desarrollo y entrega de proyectos, talleres y prácticas de la asignatura.*
+En el video se explica el trabajo realizado, el análisis de la información, el proceso de normalización y los resultados obtenidos.
 
-</div>
+### ▶️ Video
 
----
+[🎬 Ver video de la Tarea 2 en YouTube](https://youtu.be/RojQpYfXGEI)
 
-## 👨‍🏫 Información del Curso
-* **Profesor:** Jaime E. Soto U.
-* **Asignatura:** Ingeniería de Software
-* **Grupo:** E
+**Título:** Base de Datos
+**Plataforma:** YouTube
 
 ---
 
-## 📌 Propósito del Repositorio
-Este espacio centraliza el código fuente, la documentación técnica y los entregables del equipo de trabajo. Está estructurado bajo estándares de la industria para reflejar una correcta planificación, diseño y desarrollo de soluciones de software escalables y eficientes.
+### 📺 Video embebido
 
----
-
-## 👥 Equipo de Desarrollo
-
-| Rol | Integrante |
-| :--- | :--- |
-| 👑 **Líder de Proyecto** | **Richard Lezcano** |
-| 💻 **Integrante** | **Maiker Asprilla Martinez** |
-| 💻 **Integrante** | **Juan Manuel Durango** |
-
----
-
-## 📂 Estructura del Proyecto
-
-```text
-📦 bd1-20262-g52-equipo-e
- ┣ 📂 TAREA1         # TAREA 1
- ┣ 📂 TAREA2         # TAREA 2
- ┗ 📄 README.md      # Documentación principal del repositorio
+[![Ver video en YouTube](https://img.youtube.com/vi/RojQpYfXGEI/maxresdefault.jpg)](https://youtu.be/RojQpYfXGEI)
