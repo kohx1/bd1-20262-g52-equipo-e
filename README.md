@@ -40,4 +40,5 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
 📦 bd1-20262-g52-equipo-e
  ┣ 📂 TAREA1         # TAREA 1
  ┣ 📂 TAREA2         # TAREA 2
+ ┣ 📂 imagenes         # imagenes
  ┗ 📄 README.md      # Documentación principal del repositorio
