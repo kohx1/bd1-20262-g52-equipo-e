@@ -32,7 +32,7 @@
 
 **Rol:** Miembro del equipo
 <p align="center">
-  <img src="../imagenes/jj.jpg" alt="Juan Manuel Durango Galvis" width="700">
+  <img src="../imagenes/jj.png" alt="Juan Manuel Durango Galvis" width="700">
 </p>
 ---
 
