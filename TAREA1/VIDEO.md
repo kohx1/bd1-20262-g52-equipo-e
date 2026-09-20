@@ -12,4 +12,8 @@ En el video se explica el trabajo realizado, el análisis de la información, el
 **Título:** Base de Datos
 **Plataforma:** YouTube
 
+---
 
+### 📺 Video embebido
+
+[![Ver video en YouTube](https://img.youtube.com/vi/RojQpYfXGEI/maxresdefault.jpg)](https://youtu.be/RojQpYfXGEI)
