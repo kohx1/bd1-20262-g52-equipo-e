@@ -28,14 +28,15 @@
   <img src="../imagenes/MAIKER.jpg" alt="Maiker Alexander Asprilla Martinez" width="700">
 </p>
 ---
-### 👨‍💻 JUAN MANUEL DURANGO GALVIS
-
+### 👨‍💻 MAIKER ALEXANDER ASPRILLA MARTINEZ
 
 **Rol:** Miembro del equipo
-
-<!-- Agregar foto del integrante -->
-
+<p align="center">
+  <img src="../imagenes/jj.jpg" alt="Juan Manuel Durango Galvis" width="700">
+</p>
 ---
+
+
 
 ## 📖 Descripción del proyecto
 
