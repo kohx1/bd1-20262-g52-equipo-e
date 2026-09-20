@@ -27,7 +27,7 @@
 **Rol:** Miembro del equipo
 
 <p align="center">
-  <img src="../imagenes/Maiker.jpg" alt="Maiker Alexander Asprilla Martinez" width="700">
+  <img src="../imagenes/MAIKER.jpg" alt="Maiker Alexander Asprilla Martinez" width="700">
 </p>
 
 ### 👨‍💻 Juan Manuel Durango Galvis
