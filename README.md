@@ -38,7 +38,12 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
 
 ```text
 📦 bd1-20262-g52-equipo-e
- ┣ 📂 TAREA1         # TAREA 1
- ┣ 📂 TAREA2         # TAREA 2
- ┣ 📂 imagenes         # imagenes
+ ┣ 📂 imagenes       # Imágenes del equipo y recursos del repositorio
+ ┣ 📂 TAREA1         # Entregables y documentación de la Tarea 1
+ ┣ 📂 TAREA2         # Entregables y documentación de la Tarea 2
+ ┣ 📂 TAREA3         # Informe, resultados y scripts SQL de la Tarea 3
+ ┣ 📂 TAREA4         # Informe, resultados y scripts SQL de la Tarea 4
  ┗ 📄 README.md      # Documentación principal del repositorio
+```
+
+Las carpetas de tareas reúnen los informes, resultados, scripts y documentación correspondientes a cada entrega. En particular, **TAREA4** incluye los archivos SQL de creación y modificación de la base de datos Red Social Pascualina para MySQL, PostgreSQL y SQL Server, además del informe y los resultados en Excel.

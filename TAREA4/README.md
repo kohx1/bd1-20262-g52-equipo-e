@@ -13,4 +13,9 @@ Esta carpeta contiene los scripts de creación y modificación de la base de dat
 - **`scripts-modifica-red_social_pascualina_postgresql.sql`**: practica operaciones DDL sobre una tabla de convocatorias: agrega y elimina columnas, cambia nombres y tipos, define restricciones e índices y vacía la tabla al final. **La instrucción `TRUNCATE` elimina todas las filas de `convocatoria_comunidad_extra`**; ejecútalo solo en una base de datos de prueba o después de respaldar los datos.
 - **`scripts-modifica-jsonb-red_social_pascualina_postgresql.sql`**: agrega a `usuarios` dos campos JSONB de ejemplo (`perfil_usuario` y `preferencias_contenido`), actualiza hasta dos registros y consulta los valores. Requiere que exista la tabla `usuarios` y que tenga registros para ver los ejemplos; si el esquema usa otro nombre de tabla, ajusta el script.
 
+## Entregables
+
+- **`20262-bd1-ea4-E-E-informe.docx.pdf`**: informe de la Tarea 4 en formato PDF.
+- **`20262-bd1-ea4-E-E-resultados (1).xlsx`**: libro de Excel con los resultados de la Tarea 4.
+
 Ejecuta cada archivo únicamente en el gestor indicado por su nombre y revisa las instrucciones y dependencias del script antes de correrlo en una base de datos con información importante.
