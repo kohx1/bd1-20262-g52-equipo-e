@@ -59,15 +59,13 @@ Durante el desarrollo se realiza:
 ## 📁 Estructura del repositorio
 
 ```text
-bd1-20262-g52-equipo-e
-│
-├── README.md
-│___imagenes
-    ├── Maiker.jpg
-    |__ Richard.png
-|     
-├── TAREA1
-│   ├── 20262-bd1-ea1-equipo-E-informe.docx.pdf
-│   └── README.md
-│
-├── TAREA2
+TAREA1/
+├── Informe/
+│   └── 20262-bd1-G52-equipo-E-informe.docx.pdf
+├── Resultados/
+├── Video/
+│   └── VIDEO.md
+└── README.md
+```
+
+La carpeta `Resultados/` queda disponible para los archivos de resultados de esta tarea.
