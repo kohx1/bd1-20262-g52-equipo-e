@@ -1,26 +1,32 @@
-﻿# Base de Datos - Red Social Pascualina
+# TAREA 3 - Red Social Pascualina
 
-## Descripción del proyecto
+Esta carpeta organiza los entregables del diseño e implementación de la base de datos **Red Social Pascualina**.
 
-Este proyecto corresponde al diseño e implementación de la base de datos de la Red Social Pascualina. Incluye la creación y modificación de tablas, las relaciones entre ellas y las restricciones de integridad de los datos.
+```text
+TAREA3/
+├── Informe/
+├── Resultados/
+├── Video/
+└── README.md
+```
 
-## Contenido del proyecto
+## Informe
 
-- Scripts SQL de creación (CREA).
-- Scripts SQL de modificación (MODIFICA).
-- Diccionario físico de datos.
-- Documentación complementaria del taller.
+- **`Informe/20262-bd1-ea3-equipo-E-informe.docx.pdf`**: informe detallado de la Tarea 3.
 
-## Tecnologías utilizadas
+## Resultados
 
-- PostgreSQL
-- pgAdmin 4
-- SQL (DDL)
+- **`Resultados/20262-bd1-ea3-equipo-E-resultados.xlsx`**: diccionario físico de datos en formato Excel.
+- **`Resultados/scripts-crea.sql`**: instrucciones DDL para crear la base de datos y sus objetos en PostgreSQL.
+- **`Resultados/scripts-modifica.sql`**: instrucciones DDL para modificar la estructura de la base de datos.
 
-## Video de sustentación
+## Video
 
-[Ver video de sustentación en YouTube](https://youtu.be/UA67RtMXsIs)
+- **`Video/VIDEO.md`**: enlace al video de sustentación de la Tarea 3.
 
-## Objetivo
+## Tecnologías
 
-Diseñar e implementar una base de datos organizada y consistente para la Red Social Pascualina, aplicando conceptos de modelado de datos, claves primarias, claves foráneas y restricciones de integridad.
+- PostgreSQL y pgAdmin 4.
+- SQL (DDL).
+
+El proyecto aplica conceptos de modelado de datos, claves primarias y foráneas y restricciones de integridad.
