@@ -75,22 +75,14 @@ Excel fue utilizado para organizar la información y desarrollar las diferentes 
 ## 📁 Estructura del repositorio
 
 ```text
-bd1-20262-g52-equipo-e
-│
-├── README.md
-│
-├── imagenes
-│   ├── Richard.png
-│   ├── Maiker.jpg
-│   └── jj.png
-│
-├── TAREA1
-│   ├── 20262-bd1-ea1-equipo-E-informe.docx.pdf
-│   └── README.md
-│
-└── TAREA2
-    ├── [archivos del Trabajo 2]
-    └── README.md
+TAREA2/
+├── Informe/
+│   └── 20262-bd1-ea2-equipo-E-informe.docx.pdf
+├── Resultados/
+│   └── _20262-bd1-ea2-equipo-E-resultados.xlsx
+├── Video/
+│   └── VIDEO.md
+└── README.md
 ```
 
 ---
