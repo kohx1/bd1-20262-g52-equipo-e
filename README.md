@@ -26,11 +26,10 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
 
 ## 👥 Equipo de Desarrollo
 
-| Rol | Integrante |
-| :--- | :--- |
-| 👑 **Líder de Proyecto** | **Richard Lezcano** |
-| 💻 **Integrante** | **Maiker Asprilla Martinez** |
-| 💻 **Integrante** | **Juan Manuel Durango** |
+| 👑 **Líder de Proyecto** | 💻 **Integrante** | 💻 **Integrante** |
+| :---: | :---: | :---: |
+| **Richard Lezcano Argaez** | **Maiker Alexander Asprilla Martinez** | **Juan Manuel Durango Galvis** |
+| <img src="imagenes/Richard.png" alt="Richard Lezcano Argaez" width="180"> | <img src="imagenes/MAIKER.jpg" alt="Maiker Alexander Asprilla Martinez" width="180"> | <img src="imagenes/jj.png" alt="Juan Manuel Durango Galvis" width="180"> |
 
 ---
 
