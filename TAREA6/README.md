@@ -30,4 +30,4 @@ Los adjuntos `red_pb.sql` y `red_pb.backup` no se incluyen en el repositorio por
 
 ## Informe y video
 
-Las carpetas `Informe/` y `Video/` están listas para recibir el informe PDF y el enlace del video de sustentación.
+El informe está disponible en `Informe/20262-bd1-ea6-equipo-E-informe-v1.docx`. La carpeta `Video/` queda lista para agregar el enlace del video de sustentación.
