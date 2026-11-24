@@ -42,6 +42,7 @@ Este espacio centraliza el código fuente, la documentación técnica y los entr
  ┣ 📂 TAREA2         # Entregables y documentación de la Tarea 2
  ┣ 📂 TAREA3         # Informe, resultados y scripts SQL de la Tarea 3
  ┣ 📂 TAREA4         # Informe, resultados y scripts SQL de la Tarea 4
+ ┣ 📂 TAREA6         # Scripts y documentación de la Tarea 6
  ┗ 📄 README.md      # Documentación principal del repositorio
 ```
 
